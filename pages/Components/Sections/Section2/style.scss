@@ -1,0 +1,17 @@
+.bg1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.911),rgba(18, 19, 15, 0.808)), url('https://www.kingsgaterecruitment.co.uk/wp-content/uploads/2016/04/recruitment.jpg');
+    min-height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+// END
+// Section 2 Lists
+.lists{
+    ul li{
+        display: inline-flex;
+    }
+    .tick-img{
+        width: 30px; 
+      }
+} 
+// END

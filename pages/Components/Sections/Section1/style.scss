@@ -1,0 +1,15 @@
+// Top Navbar
+nav{
+    li{
+        display: inline-flex;
+        margin: 15px;
+    }
+    a{
+        color: #fff;
+    }
+    & a:hover{
+       color: orangered;
+    }
+}
+// END
+
